@@ -1,0 +1,12 @@
+/* module defines scope of them only which are included or imported*/
+.card {
+    border: 1px solid #eee;
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+    padding: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 4px;
+}
+/* scopes only limited for claasses or id  , if you try to style div, id or h2
+it will apply to everywhere, because if you visit web under card style , it will be assigned with unique keys 
+to make it unique , that you can't do with inherit html tags */

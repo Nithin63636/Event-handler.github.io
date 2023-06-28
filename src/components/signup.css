@@ -1,0 +1,21 @@
+.signup-back{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left:0%;
+    background: rgba(0,0,0,0.5);
+    }
+    
+.signup-front{
+        padding: 30px;
+        max-width: 480px;
+        margin: 200px auto;
+        background: #fff;
+        border-radius: 10px;
+        text-align: center;
+        max-height: 480px;
+        border: 4px solid;
+        border-color:  rgb(119, 210, 119);
+    }
+    
